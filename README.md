@@ -1,6 +1,6 @@
 👋 Hi, I’m Debanik
 
-I'm a Product manager who builds. I love to prototype, ship, and break things to understand them better.
+I'm a Product manager.
 Currently at Newton School, where I launched and scaled Elevate, an AI mock interview platform and have launched our state of the art evaluation apps, Athena and Heimdall.
 
 **What I'm working on**
